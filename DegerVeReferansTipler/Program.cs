@@ -22,7 +22,7 @@ namespace DegerVeReferansTipler
 
             Console.WriteLine(sayi1);
 
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
