@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{84F4F56D-F578-4212-B799-D09277DCFF2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A620E77F-80BF-4128-B41F-AB8ECAD5650E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{A620E77F-80BF-4128-B41F-AB8ECAD5650E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{FDD31385-ECA1-4411-822C-A8867066D7C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A620E77F-80BF-4128-B41F-AB8ECAD5650E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A620E77F-80BF-4128-B41F-AB8ECAD5650E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A620E77F-80BF-4128-B41F-AB8ECAD5650E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD31385-ECA1-4411-822C-A8867066D7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD31385-ECA1-4411-822C-A8867066D7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD31385-ECA1-4411-822C-A8867066D7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD31385-ECA1-4411-822C-A8867066D7C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
