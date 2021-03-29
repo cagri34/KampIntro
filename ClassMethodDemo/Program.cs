@@ -36,7 +36,7 @@ namespace ClassMethodDemo
             {
                 customerManager.Sil(customer);
             }
-            
+           
         }
     }
 }
